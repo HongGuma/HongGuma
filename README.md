@@ -30,6 +30,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HongGuma&layout=compact"><br><br>
 </div>
 
+
+<br>
+<div align = "center">
+	<p>저의 학습용 github 계정 입니다. : https://github.com/HongGuma-study </p>
+</div>
+
 <!--
 **HongGuma/HongGuma** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
