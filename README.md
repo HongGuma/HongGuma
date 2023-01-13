@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=300&section=header&text=Hi%20I'm%20Hong%20Guma%20🐣&fontSize=66&fontColor=ffffff)
 <div align = "center">
-안녕하세요? 알에서 나오고 싶은 주니어 개발자 홍수희 입니다!
+안녕하세요? 알에서 나오고 있는 주니어 개발자 홍수희 입니다!
 </div>
 
 <div align = "center">
@@ -22,12 +22,12 @@
 <br>
 <div align = "center">
   <h2>💻GitHub stats💻</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=HongGuma&show_icons=true">
+<img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeFama&&show_icons=true"><br><br>
 </div>
 <br>
 <div align = "center">
   <h2>✨Most used languages✨</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HongGuma&layout=compact"><br><br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HongGuma"><br><br>
 </div>
 
 
