@@ -33,7 +33,7 @@
 <br>
 <div align = "center">
 	<h2>🧩Profile 3D🧩</h2>
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 </div>
 
 <br>
