@@ -29,12 +29,13 @@
   <h2>✨Most used languages✨</h2>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HongGuma"><br><br>
 </div>
-
 <br>
 <div align = "center">
-	<h2>🧩Profile 3D🧩</h2>
-![](./profile-3d-contrib/profile-night-green.svg)
+<h2>🧩Profile 3D🧩</h2>
 </div>
+
+![](./profile-3d-contrib/profile-green.svg)
+
 
 <br>
 <div align = "center">
