@@ -31,10 +31,6 @@
 </div>
 <br>
 <div align = "center">
-<h2>🧩Profile 3D🧩</h2>
-</div>
-
-![](./profile-3d-contrib/profile-green.svg)
 
 
 <br>
